@@ -71,7 +71,8 @@ flutter:
     - assets/flutter_ui/
     - assets/bmi_calculator_images/
     - assets/flutter_ui/config.txt
-    - assets/ecommerce_clothes/
+    - assets/ecommerce_clothes/icons/
+    - assets/ecommerce_clothes/images/
 
   #   - images/a_dot_ham.jpeg
 
