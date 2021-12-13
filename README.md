@@ -1,4 +1,4 @@
-# flutter_docs
+# Learn Flutter Docs
 
 A new Flutter project.
 
